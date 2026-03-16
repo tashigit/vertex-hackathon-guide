@@ -85,7 +85,7 @@ Get started with the following docs and tools:
 - **[Vertex for Rust (vertex-rs)](https://docs.tashi.network/developers/developers/vertex-rs)**: Build native Rust-based swarm agents.
 - **[Vertex for C (vertex-c)](https://docs.tashi.network/developers/developers/vertex-c)**: Integrate consensus into C
 - **[FoxMQ Resources](https://docs.tashi.network/resources/foxmq)**: Deep dive into the decentralized MQTT broker.
-- **[Technical Whitepaper](https://docs.tashi.network/whitepaper/whitepaper/overview)**: For those who want to understand the DAG and virtual voting math.
+- **[Technical Whitepaper](https://docs.tashi.network/whitepaper/whitepaper)**: For those who want to understand the DAG and virtual voting math.
 - **[Tashi Glossary](https://docs.tashi.network/resources/glossary)**: Catch up on the terminology.
 
 ---
