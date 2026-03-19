@@ -84,9 +84,9 @@ Get started with the following docs and tools:
 - **[Nexus Agentic Commerce](https://github.com/tashigit/nexus-agentic-commerce)**: High-Frequency Agentic Commerce built on Tashi Vertex.
 - **[Pioneer Swarm Exploration](https://github.com/tashigit/pioneer)**: Comprehensive ROS 2 + Webots stack for coordinating five Pioneer robots that cooperatively explore an arena, share telemetry through FoxMQ, and reach consensus on robot health before accepting detections.
 
-
-
-
+### MCP / Context for agents
+- **[Tashi Vertex Rust Context](https://context7.com/tashigit/tashi-vertex-rs)**: Get up-to-date documentation and code context for Tashi Vertex RS optimized for LLMs and AI agents via Context7.
+- **[FoxMQ Agent Skill](FoxMQ-SKILL.md)**: A specialized skill definition for FoxMQ. Add this file to your repository's `.agent/skills/` directory (or run `npx ctx7 skills install /tashigit/foxmq foxmq-mqtt-broker`) to give your AI agent deep context on FoxMQ cluster setup, producer-consumer patterns, and consensus-backed MQTT networking.
 
 
 ---
