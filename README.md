@@ -78,6 +78,16 @@ Get started with the following docs and tools:
 - **[FoxMQ Python Warmup](https://github.com/tashigit/warmup-foxmq-python)**: Get started with decentralized MQTT using Python.
 - **[Vertex Rust Warmup](https://github.com/tashigit/warmup-vertex-rust)**: A template for building native consensus-powered agents in Rust.
 - **[Webots Starter Kit](https://github.com/tashigit/tashi_vertex-webots-starter-kit)**: Orchestrate robotic simulations in Webots using Vertex.
+- **[AirSim Vertex Starter Kit](https://github.com/tashigit/airsim-vertex-starter-kit)**: Decentralized drone swarm coordination starter kit using Tashi Vertex P2P consensus and Microsoft AirSim.
+
+### Demos
+- **[Nexus Agentic Commerce](https://github.com/tashigit/nexus-agentic-commerce)**: High-Frequency Agentic Commerce built on Tashi Vertex.
+- **[Pioneer Swarm Exploration](https://github.com/tashigit/pioneer)**: Comprehensive ROS 2 + Webots stack for coordinating five Pioneer robots that cooperatively explore an arena, share telemetry through FoxMQ, and reach consensus on robot health before accepting detections.
+
+
+
+
+
 
 ---
 
